@@ -1,0 +1,4 @@
+﻿  PL0.c
+f:\program\computerscience\compilestudy\compileprogram\compiler\pl0.c(887): warning C4101: “hbin”: 未引用的局部变量
+f:\program\computerscience\compilestudy\compileprogram\compiler\pl0.c(889): warning C4101: “i”: 未引用的局部变量
+  Compiler.vcxproj -> F:\Program\ComputerScience\CompileStudy\CompileProgram\Debug\Compiler.exe
